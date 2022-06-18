@@ -1,0 +1,57 @@
+body {
+    background-color: #5CDB95;
+    min-width: 500px;
+}
+
+/* Header */
+header {
+    padding: 0 5%;
+}
+
+h1 {
+    font-family: 'Potta One';
+    text-align: center;
+    color:#EDF5E1;
+    font-size: 40px;
+}
+
+/* Table */
+
+h2, th {
+    font-family: Signika;
+}
+
+th {
+    color:#379683;
+}
+
+td {
+    font-family: 'Anek Malayalam';
+    color:#5CDB95;
+    padding: 10px 0;
+    text-align: left;
+}
+
+table {
+    background-color: #05386B;
+    border-radius: 15px;
+    width: 100%;
+}
+
+.container {
+    padding: 0 5%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.boxmodel, .font {
+    background-color: #379683;
+    border-radius: 15px;
+    width: 40%;
+    padding: 1px 15px 15px 15px;
+    display: inline-block;
+}
+
+.boxmodel {
+    margin-right: 14px;
+}
